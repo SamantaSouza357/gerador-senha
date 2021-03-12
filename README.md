@@ -1,6 +1,6 @@
 # Gerador de Senha
 
-<img src="./src/assets/geradorSenha.jpeg?w=512" height="150" width="150"> <img src="./src/assets/geradoSenha.jpeg?w=512" height="150" width="150">
+<img src="./src/assets/geradorSenha.jpeg?w=512" height="400" width="400"> <img src="./src/assets/geradoSenha.jpeg?w=512" height="400" width="400">
 
 
 ## 📃 Sobre
