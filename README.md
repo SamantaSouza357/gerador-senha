@@ -1,7 +1,7 @@
 # Gerador de Senha
 
 
-<p float="center">
+<p>
  <img src="./src/assets/geradorSenha.jpeg" width="230"  >
   <img src="./src/assets/geradoSenha.jpeg"  width="230">
 </p>
