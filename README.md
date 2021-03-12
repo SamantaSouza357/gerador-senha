@@ -1,10 +1,9 @@
 # Gerador de Senha
 
 
-<p>
- <img src="./src/assets/geradorSenha.jpeg" width="230"  >
-  <img src="./src/assets/geradoSenha.jpeg"  width="230">
-</p>
+<!-- <p> -->
+ <img src="./src/assets/geradorSenha.jpeg" width="230"> <img src="./src/assets/geradoSenha.jpeg"  width="230">
+<!-- </p> -->
 
 
 ## 📃 Sobre
